@@ -1,0 +1,44 @@
+{
+    "rec": {
+        "id": "2288",
+        "share_name": "87",
+        "need_login": "0",
+        "share_type": "2",
+        "start_time": "2018-10-16 17:40:53",
+        "end_time": "2018-10-23 17:40:56",
+        "status": "1",
+        "add_time": "2018-10-16 17:41:23",
+        "ischeck": "0",
+        "update_time": "2018-10-16 17:42:50",
+        "update_usr": "gping.feng",
+        "test_ratio": "100:0",
+        "share_reward": "0",
+        "default_content_group": "ccb5f09df304dd7c3fc261d089218eac",
+        "classify_id": "0",
+        "default": [{
+            "plats": "android,iphone,ipad,wap",
+            "create_time": "2018-10-16 17:41:23",
+            "group": "ccb5f09df304dd7c3fc261d089218eac",
+            "channels": "\u5fae\u4fe1\u597d\u53cb,\u670b\u53cb\u5708",
+            "content_type": "4",
+            "share_image": "",
+            "share_title": "{arg1}{arg2}",
+            "share_url": "alinl87",
+            "share_content": ["{arg1}{arg2}{arg3}"]
+        }],
+        "personal": [{
+            "plats": "android,iphone,ipad",
+            "create_time": "2018-10-16 17:42:50",
+            "group": "92989deeba62d940e814f9f58f418422",
+            "channels": "\u5fae\u4fe1\u597d\u53cb",
+            "content_type": "4",
+            "share_image": "",
+            "test_ratio": "100",
+            "start_time": "2018-10-18 17:42:32",
+            "end_time": "2018-10-22 17:42:32",
+            "share_title": "{arg1}{arg2}"
+        }]
+    },
+    "status": "1",
+    "msg": ""
+}
